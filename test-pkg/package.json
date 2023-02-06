@@ -1,0 +1,8 @@
+{
+    "name": "@wnrnal3012/study-test-jihye",
+    "version": "0.1.2",
+    "main": "main.js",
+    "keywords": ["util"],
+    "license": "MIT",
+    "dependencies": {}
+}
